@@ -6,7 +6,7 @@ This is a prototype for [CCExtractor's Beacon project](https://ccextractor.org/p
 
 ## Prototype video
 
-![video example](media/video.mp4)
+[See video](https://user-images.githubusercontent.com/50910066/113720337-2882e200-970c-11eb-9879-42e6ef195162.mp4)
 
 ## Flow for the app
 
